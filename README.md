@@ -105,7 +105,17 @@ The follow columns in the 'Stores t=Table' were the assigned the following corre
 
 Milestone 4
 -
+Firstly 4 report pages were created:
+- Executive Summary
+- Customer Detail
+- Product Detail
+- Stores Map
+and then a colour theme was chosen.
 
+Then navigation sidebar bases for each of the report pages were formed.
+
+Milestone 5
+- 
 
 
 
