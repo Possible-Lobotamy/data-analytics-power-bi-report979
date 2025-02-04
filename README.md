@@ -53,13 +53,13 @@ and going up to the last shipping date (using the end of the year of the last sh
 
 Dax formulas to calculate these columns: 
 
-[Month Number]
-[Month Name]
-[Quarter]
-[Year]
-[Start of Year]
-[Start of Quarter]
-[Start of Month]
+[Month Number],
+[Month Name],
+[Quarter],
+[Year],
+[Start of Year],
+[Start of Quarter],
+[Start of Month],
 [Start of Week]
 
 Were created and then added to the 'Date Table'
@@ -67,11 +67,11 @@ Were created and then added to the 'Date Table'
 Relationships between the fact table 'Orders' to the other dimensions tables were ascertained and connected forming a star schema. 
 Here is a list of the relationships:
 
-Products[product_code] to Orders[product_code]
-Stores[store code] to Orders[Store Code]
-Customers[User UUID] to Orders[User ID]
-Date[date] to Orders[Order Date]
-Date[date] to Orders[Shipping Date]
+- Products[product_code] to Orders[product_code].
+- Stores[store code] to Orders[Store Code].
+- Customers[User UUID] to Orders[User ID].
+- Date[date] to Orders[Order Date].
+- Date[date] to Orders[Shipping Date].
 
 Date[date] to Orders[Order Date] was made the active relationship over Date[date] to Orders[Shipping Date]
 as the shipping order is earlier in the date and chain hireachy. 
@@ -79,11 +79,11 @@ as the shipping order is earlier in the date and chain hireachy.
 A measure table called 'Total Orders' was created.
 Within this measures table several measures from the 'Orders' table were created:
 
-[Total Orders]
-[Total Revenue]
-[Total Customers]
-[Total Quantity]
-[Profit YTD]
+[Total Orders],
+[Total Revenue],
+[Total Customers],
+[Total Quantity],
+[Profit YTD],
 [Revenue YTD]
 
 A date hierarchy of in the 'Date Table' was then created in this order:
@@ -99,8 +99,8 @@ A geography hierarchy in the 'Stores' table was then created:
 
 The follow columns in the 'Stores table' were the assigned the following correct data categories:
 
-Region : Continent
-Country : Country
+Region : Continent,
+Country : Country,
 Country Region : State or Province
 
 Milestone 4
