@@ -110,9 +110,7 @@ Firstly 4 report pages were created:
 - Customer Detail
 - Product Detail
 - Stores Map
-and then a colour theme was chosen.
-
-Then navigation sidebar bases for each of the report pages were formed.
+Then a colour theme was chosen and navigation sidebar bases for each of the report pages were formed.
 
 Milestone 5
 - 
