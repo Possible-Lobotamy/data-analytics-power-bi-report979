@@ -88,16 +88,16 @@ Within this measures table several measures from the 'Orders' table were created
 
 A date hierarchy of in the 'Date Table' was then created in this order:
 
-[Start of Year] --> [Start of Quarter] --> [Start of Month] --> [Start of Week] --> [Date]
+- [Start of Year] --> [Start of Quarter] --> [Start of Month] --> [Start of Week] --> [Date]
 
 Then a new column in the 'Stores' table was created called [Country]. This took the [Country Code] column values and parsed them into
 there full names
 
 A geography hierarchy in the 'Stores' table was then created:
 
-[World region] --> [Country] --> [Country Region].
+- [World region] --> [Country] --> [Country Region]
 
-The follow columns in the 'Stores table' were the assigned the following correct data categories:
+The follow columns in the 'Stores t=Table' were the assigned the following correct data categories:
 
 - Region : Continent
 - Country : Country
