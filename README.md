@@ -99,9 +99,9 @@ A geography hierarchy in the 'Stores' table was then created:
 
 The follow columns in the 'Stores table' were the assigned the following correct data categories:
 
-Region : Continent,
-Country : Country,
-Country Region : State or Province
+- Region : Continent
+- Country : Country
+- Country Region : State or Province
 
 Milestone 4
 -
