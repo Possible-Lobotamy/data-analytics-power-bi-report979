@@ -62,7 +62,7 @@ Dax formulas to calculate these columns:
 - [Start of Month],
 - [Start of Week]
 
-Were created and then added to the 'Date Table'
+were created and then added to the 'Date Table'.
 
 Relationships between the fact table 'Orders' to the other dimensions tables were ascertained and connected forming a star schema. 
 Here is a list of the relationships:
