@@ -140,6 +140,28 @@ Lastly a date slicer was added, so the information can calculated and accessed d
 
 Milestone 6
 -
+This Milestones aim was to create executive summary report page.
+
+Firstly report cards for the 'Total Revenue', 'Total Orders' and 'Total Profit' measures were created.
+
+Then a line graph the with 'Date Heirarchy' on the X axis and he 'Total Revenue' on Y was created.
+
+Then doughnut charts for 'Total Revenue' by [Country] and [Store Type] respectively were created.
+
+Then a bar chart of Total Customers by Product Category was created. 
+
+Then 3 new measures, were created Previous Quarter Profit
+
+- Previous Quarter Revenue
+- Previous Quarter Orders
+- Previous Quarter Profit
+
+These were then used to calculate target growth equal to 5% increase on these values. 
+These target growth figures were then plotted against the acutual values filtered by Quarter to make 3 KPI visuals.
+
+Milestone 7
+-
+
 
 
 
