@@ -115,6 +115,32 @@ Then a colour theme was chosen and navigation sidebar bases for each of the repo
 
 Milestone 5
 - 
+This milestones aim was to create a report page for customer details.
+Firstly a card visual for [Total Customers], redubbed [Unique Customers] for the page was created.
+Then a new measure created [Revenue per Customer], that was then also given a card visual.
+
+Then two doughnut charts were created:
+one showing customer counts for each country.
+one showing customer counts for each product category. 
+
+Then a line chart was created, that had the date hirearchy 'from Start of Year' to 'Start of Month' on the X axis.
+And [Total Customers] on the Y axis.
+This was fitted with a trend line and a 95% confidence interval forecast for the predicted customers over the next 2 years (tbd).
+
+Then a table wasre created showing the top 20 customers full names.
+The revenue per each of those customers.
+And the number of orders of each of those customers.
+
+Then 3 more customer cards were created each showing a new measure:
+The top customers name.
+The top customers total revenue.
+The top customers number of orders. 
+
+Lastly a date slicer was added, so the information can calculated and accessed dynamically by date. 
+
+Milestone 6
+-
+
 
 
 
