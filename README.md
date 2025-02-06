@@ -181,7 +181,25 @@ Then a scatter graph of quantity sold vs profit per item was created.
 
 A slicer toolbar for the graph that allows filtering of the scatter graph by [Country] and [Product Category] was then created.
 
+Milestone 8
+-
+The aim of this milestone was to create a stores map page that allows easy access to the different geogrpahic levels of buissness hierarchy,
+all the way to down the granualar level of individual stores. Useful statisical information about these stores would be able to accessed.
 
+Firstly a stores map report page was created and then a world map applied. This world map was given the drill down hierarchy of
+[World Region] --> [Country] --> [Country Region]. A slider of the 'Stores'[Country] column containing Germany, the United Kingdom and the United States
+waas created for selection ease. the 'Profit YTD' measure was selected as the bubble size, for visualation of the profit that each drill down unit is making.
+
+A drillthrough page, intended for the store level was then created. This included a table that showed top 5 selling products and the
+'Description', 'Profit YTD', 'Total Orders' and 'Total Revenue'. A column chart showing the 'Total Orders' by 'Product Category'. Two gauges, one showing the total
+Revenue YTD against the target of 20% growth from the last years Revenue. And one showing the same but for the profit
+
+Lastly a Tooltip page was created, that showed the profit YTD, to target profit gauge from the previus task. This was then attached to the map
+showing the current yearly profit against the 20% growth target from the previous year, but for every level of granularity in the drill down
+when hovered over. 
+
+Milestone 9
+-
 
 
 
