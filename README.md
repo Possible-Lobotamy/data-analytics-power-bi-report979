@@ -200,6 +200,22 @@ when hovered over.
 
 Milestone 9
 -
+The aim of this milestone was to set the correct cross highlighting for readability, and to create navigation buttons for all report pages in the report.
+
+For the updating cross filtering broken down by page:
+
+- Executive summary - the 'Product Category' bar chart was removed from filtering from card visuals and KPI's
+- Customer detail - the top 20 customers table was removed from filtering all other visuals. The 'Product Category vs Total Customers'
+Doughnut chart was removed from filtering the 'Total Customers by Date' line graph. The 'Country vs Total Customers' doughnut chart
+was attached to filter to the 'Product Category vs Total Customers' doughnut chart.
+- Product Detail - 'Profit vs Quantity sold of Products' Scatter graph removed from affecting other visuals.
+  Top 10 Product table removed from affecting other visuals. 
+
+Then the navigation bar with buttons were created for executive summary report page. This involved chosing 4 custom shapes, appropiate
+for each of the pages. Setting the buttons to turn a different colour when hovered over. Then connecting each one the buttons to navigate to their
+respective affiliated pages.
+
+
 
 
 
