@@ -161,8 +161,25 @@ These target growth figures were then plotted against the acutual values filtere
 
 Milestone 7
 -
+The aim of this milestone was to create a product detail report page.
 
+Firstly 3 gauge visuals with the current quarterly orders, revenue and profit, against their targets were created.
 
+Then 2 filter state cards for the [Country] and [Product Category] were created.
+
+Then an area chart of [Total Revenue] by [Product Category] was created.
+
+Then a table that contained the top 10 selling products by unit was created. This table also contained the columns and measures:
+
+- Product Description
+- Total Revenue
+- Total Customers
+- Total Orders
+- Profit per Order
+   
+Then a scatter graph of quantity sold vs profit per item was created.
+
+A slicer toolbar for the graph that allows filtering of the scatter graph by [Country] and [Product Category] was then created.
 
 
 
