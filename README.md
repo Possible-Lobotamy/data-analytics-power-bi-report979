@@ -215,6 +215,19 @@ Then the navigation bar with buttons were created for executive summary report p
 for each of the pages. Setting the buttons to turn a different colour when hovered over. Then connecting each one the buttons to navigate to their
 respective affiliated pages.
 
+Milestone 10
+-
+The aim of this milestone was to connect and import data a Postgres db, then use SQL queries to extract the desired and revelent information.
+
+Firstly a connection the Azure hosted db was created.
+
+Then a list of the tables in the db printed and saved in .csv format for referencing.
+Then the list of every column in every table were printed and saved in .csv format creating a full extracted repoistory of the db information. 
+
+Several (5) questions were posed. Using SQL tools in vscode and the connection to db,
+SQL queries were designed to answer each one of these questions and the answers and queries saved and uploaded the the git. 
+
+
 
 
 
